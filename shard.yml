@@ -1,0 +1,13 @@
+name: crystal_experiments
+version: 0.1.0
+
+authors:
+  - Luis A. Medina <lmedinar1503@alumno.ipn.mx>
+
+targets:
+  crystal_experiments:
+    main: src/crystal_experiments.cr
+
+crystal: '>= 1.16.3'
+
+license: MIT
